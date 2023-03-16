@@ -1,0 +1,2 @@
+cave_tileset0.png https://www.spriters-resource.com/ds_dsi/pokemonmysterydungeonexplorersoftimedarkness/sheet/85790/
+fennel.png https://www.spriters-resource.com/pc_computer/pokemonuranium/sheet/134409/
